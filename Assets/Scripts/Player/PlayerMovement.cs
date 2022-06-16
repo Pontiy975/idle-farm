@@ -50,7 +50,6 @@ internal class PlayerMovement : MonoBehaviour
 
         _controller.Move(movementVector);
         _isMove = _joystick.Horizontal != 0 || _joystick.Vertical != 0;
-        print(_isMove);
     }
         
     private void Rotation()

@@ -5,11 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - StackItem
+  - Wheat
+  - SliceObject
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Cuttable
   - Water
   - UI
   - 
